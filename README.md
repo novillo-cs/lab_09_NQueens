@@ -1,4 +1,4 @@
-# LAB 08: NQueens
+# LAB 09: NQueens
 
 **Name:**
 
